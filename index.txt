@@ -1,0 +1,2 @@
+#日本語化ライブラリ導入
+!pip install japanize-matplotlib | tail -n 1
